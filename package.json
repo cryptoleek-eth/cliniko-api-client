@@ -40,12 +40,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/cliniko-api-client.git"
+    "url": "https://github.com/cryptoleek-eth/cliniko-api-client.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/cliniko-api-client/issues"
+    "url": "https://github.com/cryptoleek-eth/cliniko-api-client/issues"
   },
-  "homepage": "https://github.com/yourusername/cliniko-api-client#readme",
+  "homepage": "https://github.com/cryptoleek-eth/cliniko-api-client#readme",
   "engines": {
     "node": ">=16"
   }
